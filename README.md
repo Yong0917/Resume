@@ -1,5 +1,5 @@
 # 한림대학교 소프트웨어융합대학
 --- 
-![이력서사진](신승용.jpg)
+![이력서사진](신승용.png)
 
-<img src=kdh.jpg height=300 width=450>
+<img src=kdh.png height=300 width=450>
