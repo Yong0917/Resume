@@ -2,4 +2,4 @@
 --- 
 ![이력서사진](신승용.png)
 
-<img src=kdh.png height=300 width=450>
+<img src=kdh.png height=350 width=450>
